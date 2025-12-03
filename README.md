@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-Here to just learn and dip my toes into random AI based projects, probably involving things I enjoy such as sports and business.
+Dipping my toes into random AI based projects, probably involving things I enjoy such as sports and business.
 
 Business and product leader with 12+ years experience across Retail/Tech and engineering. I have a B.S. in Electrical Engineering from UCLA and MBA from Carnegie Mellon University. 
 
