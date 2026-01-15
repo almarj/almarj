@@ -14,7 +14,7 @@ Currently, I'm a Manager, Product Management at Amazon focused in the B2B Retail
 
 *   **[Padres AI Assistant](https://github.com/almarj/padres-ai-assistant):** AI based app leveraging Claude to provide San Diego Padres insights. 
 *   **[Mariners AI Assistant](https://github.com/almarj/mariners-ai-assistant):** AI based app leveraging Claude to provide Seattle Mariners insights.
-*   **MLB Contract Advisor:** Currently baking in the oven...stay tuned!
+*   **[MLB Contract Advisor](https://github.com/almarj/mlb-contract-advisor):** Currently baking in the oven...stay tuned!
 
 
 ### 📫 Connect With Me
