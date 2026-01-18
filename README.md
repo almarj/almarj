@@ -16,7 +16,8 @@ Dipping my toes into random AI-based projects, probably involving things I enjoy
 
 *   **[Padres AI Assistant](https://github.com/almarj/padres-ai-assistant):** AI based app leveraging Claude to provide San Diego Padres insights. 
 *   **[Mariners AI Assistant](https://github.com/almarj/mariners-ai-assistant):** AI based app leveraging Claude to provide Seattle Mariners insights.
-*   **[MLB Contract Advisor](https://github.com/almarj/mlb-contract-advisor):** Currently baking in the oven...stay tuned!
+*   **[MLB Contract Advisor](https://github.com/almarj/mlb-contract-advisor):** **(Currently baking in the oven...stay tuned!)** MLB Contract Advisor
+AI-Powered Contract Predictions 
 
 
 ### 📫 Connect With Me
