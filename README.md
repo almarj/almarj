@@ -14,7 +14,7 @@ Currently, I'm a Manager, Product Management at Amazon focused in the B2B Retail
 
 *   **[Padres AI Assistant](https://github.com/almarj/padres-ai-assistant):** AI based app leveraging Claude to provide San Diego Padres insights. 
 *   **[Mariners AI Assistant](https://github.com/almarj/mariners-ai-assistant):** AI based app leveraging Claude to provide Seattle Mariners insights.
-*   **[MLB Contract Advisor](https://github.com/almarj/mlb-contract-advisor):** What would Juan Soto be worth if he hit free agency today? Find out in seconds. MLB Contract Advisor is an AI-powered tool that predicts what MLB players should be worth in free agency. Enter any player's stats, and get an instant contract estimate (AAV and years) backed by machine learning models trained on 450+ historical contracts from 2015-2026.
+*   **[MLB Contract Advisor](https://github.com/almarj/mlb-contract-advisor):** What would Juan Soto be worth if he hit free agency today? Find out in seconds. MLB Contract Advisor is an AI-powered tool that predicts what MLB players should be worth in free agency.
 
 
 ### 📫 Connect With Me
